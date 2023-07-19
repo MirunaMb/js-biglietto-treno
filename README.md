@@ -13,5 +13,5 @@ chiedo all'utente l'età
 Per scoprire il prezzo del biglietto :
 prezzo del biglietto = finalPrice
 1. in base ai km che l'utente vuole percorrere applico una variabile (finalprice=b x 0.21€ )
-2. finaprice=price + (price/100 *20)
-3. finaprice=price + (price/100 *40)
+2. finaprice=price - (price/100 *20)
+3. finaprice=price - (price/100 *40)
